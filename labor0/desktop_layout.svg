@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="152.94641mm"
+   height="117.03869mm"
+   viewBox="0 0 152.94641 117.03869"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="desktop_layout.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="374.80626"
+     inkscape:cy="142.82886"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1200"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-12.351191,-64.422615)">
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:0.05490196;stroke:#000000;stroke-width:1.08913291;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect979"
+       width="28.637056"
+       height="5.5805101"
+       x="111.47237"
+       y="74.843239" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:0.05490196;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect815"
+       width="75.973206"
+       height="116.03868"
+       x="12.851191"
+       y="64.922623" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.16461611px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1791154"
+       x="13.597128"
+       y="71.774605"
+       id="text819"><tspan
+         sodipodi:role="line"
+         id="tspan817"
+         x="13.597128"
+         y="71.774605"
+         style="stroke-width:0.1791154">Terminal</tspan></text>
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:0.05490196;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect815-3"
+       width="75.973206"
+       height="116.03869"
+       x="88.824394"
+       y="64.922615" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.16461658px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1791154"
+       x="89.570328"
+       y="71.774597"
+       id="text819-6"><tspan
+         sodipodi:role="line"
+         id="tspan817-7"
+         x="89.570328"
+         y="71.774597"
+         style="stroke-width:0.1791154">VSCode</tspan></text>
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:0.05490196;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect842"
+       width="19.276785"
+       height="103.94345"
+       x="90.714287"
+       y="74.75" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:0.05490196;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect842-3"
+       width="50.042309"
+       height="103.78007"
+       x="111.42828"
+       y="74.799149" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:0.05490196;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect842-3-5"
+       width="71.955933"
+       height="103.58208"
+       x="14.53768"
+       y="75.163559" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.99018717px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.09975468"
+       x="15.817636"
+       y="79.687759"
+       id="text893"><tspan
+         sodipodi:role="line"
+         id="tspan891"
+         x="15.817636"
+         y="79.687759"
+         style="stroke-width:0.09975468"><tspan
+   style="fill:#ff0000;fill-opacity:1"
+   id="tspan1002">~/lab0</tspan>$ ls -l</tspan><tspan
+         sodipodi:role="line"
+         x="15.817636"
+         y="84.675491"
+         style="stroke-width:0.09975468"
+         id="tspan939">task0.c </tspan><tspan
+         sodipodi:role="line"
+         x="15.817636"
+         y="89.663231"
+         style="stroke-width:0.09975468"
+         id="tspan941">a.out</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="95.816963"
+       y="77.395828"
+       id="text915"><tspan
+         sodipodi:role="line"
+         id="tspan913"
+         x="95.816963"
+         y="86.759598"
+         style="stroke-width:0.26458332" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.74848604px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.09371215"
+       x="92.330017"
+       y="79.384506"
+       id="text919"><tspan
+         sodipodi:role="line"
+         id="tspan917"
+         x="92.330017"
+         y="79.384506"
+         style="stroke-width:0.09371215">Explorer</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.14895916px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.07872398"
+       x="113.50289"
+       y="78.65213"
+       id="text919-9"><tspan
+         sodipodi:role="line"
+         id="tspan917-1"
+         x="113.50289"
+         y="78.65213"
+         style="stroke-width:0.07872398">Editor (task0.c)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.98315859px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.07457896"
+       x="92.688446"
+       y="83.39016"
+       id="text893-2"><tspan
+         sodipodi:role="line"
+         id="tspan891-7"
+         x="92.688446"
+         y="83.39016"
+         style="stroke-width:0.07457896;fill:#ff0000;fill-opacity:1">~/lab0</tspan><tspan
+         sodipodi:role="line"
+         x="92.688446"
+         y="87.11911"
+         style="stroke-width:0.07457896"
+         id="tspan939-0">|</tspan><tspan
+         sodipodi:role="line"
+         x="92.688446"
+         y="90.848053"
+         style="stroke-width:0.07457896"
+         id="tspan967">|-- task0.c </tspan><tspan
+         sodipodi:role="line"
+         x="92.688446"
+         y="94.577003"
+         style="stroke-width:0.07457896"
+         id="tspan941-9">|-- a.out</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.94935298px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.09873382"
+       x="114.52678"
+       y="86.535217"
+       id="text971"><tspan
+         sodipodi:role="line"
+         id="tspan969"
+         x="114.52678"
+         y="86.535217"
+         style="stroke-width:0.09873382">int main()</tspan><tspan
+         sodipodi:role="line"
+         x="114.52678"
+         y="91.471909"
+         style="stroke-width:0.09873382"
+         id="tspan977">{</tspan><tspan
+         sodipodi:role="line"
+         x="114.52678"
+         y="96.4086"
+         style="stroke-width:0.09873382"
+         id="tspan973"> ...</tspan><tspan
+         sodipodi:role="line"
+         x="114.52678"
+         y="101.34529"
+         style="stroke-width:0.09873382"
+         id="tspan975">}</tspan></text>
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:0.05490196;stroke:#999999;stroke-width:0.96244413;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect981"
+       width="19.568295"
+       height="5.6181941"
+       x="140.98122"
+       y="74.834946" />
+  </g>
+</svg>
