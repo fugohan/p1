@@ -1,0 +1,12 @@
+34 Peter
+45 Susi
+89 Karin
+99 Uli
+93 Karl
+84 Max
+34 Michael
+65 Martin
+78 Josef
+97 Katrin
+76 Olivia
+4  Auwe

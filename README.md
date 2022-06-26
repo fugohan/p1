@@ -5,3 +5,9 @@
 	- [ ] Aufbauend
 	- [ ] Unabhängig
 - [ ] Wenn man hängt kann man hilfe von den Tutoren bekommen?
+
+
+# Todo 
+
+- [ ] my getline in notebooks suchen
+
